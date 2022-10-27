@@ -1,0 +1,16 @@
+tensorflow
+opencv-python
+numpy
+playsound
+PyAudio
+PyObjC
+PyQt5
+pyshine
+sounddevice
+soundfile
+SpeechRecognition
+wheel
+python-Levenshtein
+fuzzywuzzy
+ndg-httpsclient
+pyttsx3
